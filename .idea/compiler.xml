@@ -9,5 +9,8 @@
         <module name="taxi-service" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="web-security" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
